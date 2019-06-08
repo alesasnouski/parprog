@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f652ee5c-7bf3-4fd6-b96d-1e29af75daf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_scala_blitz_scala_blitz_2_11_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_wookietreiber_scala_chart_2_11_0_4_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_storm_enroute_scalameter_2_11_0_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_storm_enroute_scalameter_core_2_11_0_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_jfree_jcommon_1_0_21_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_jfree_jfreechart_1_0_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_swing_2_11_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_tools_testing_test_interface_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/parprog1-scalashop-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/parprog1-scalashop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/CommonBuild.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Courses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/GradingFeedback.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/ScalaTestRunner.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/Settings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentBuild.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentBuildLike.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StyleChecker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$34313091c492f7a9927b$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$34313091c492f7a9927b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$34313091c492f7a9927b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3656c1f950598f95999e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3656c1f950598f95999e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3656c1f950598f95999e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3e9a828e962f99fa796a$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3e9a828e962f99fa796a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3e9a828e962f99fa796a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3e9a828e962f99fa796a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$596d9d2d62607db7a96b$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$596d9d2d62607db7a96b$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$596d9d2d62607db7a96b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$596d9d2d62607db7a96b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$82047114a0f05cf3662e$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$82047114a0f05cf3662e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$82047114a0f05cf3662e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$82047114a0f05cf3662e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$eaaf8667f87b7461e3f7$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$eaaf8667f87b7461e3f7$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$eaaf8667f87b7461e3f7.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$eaaf8667f87b7461e3f7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f39d505161dfb21ac916$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f39d505161dfb21ac916.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$f39d505161dfb21ac916.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/AssignmentInfo$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/AssignmentInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CourseraId$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CourseraId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Courses$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Courses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Settings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleCheck$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-docs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scalashop/scala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/PhotoCanvas.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierResolutions/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+              <folding>
+                <element signature="e#19#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+              <folding>
+                <element signature="e#19#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type RGBA = Int</find>
+      <find>printl</find>
+      <find>println</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/project</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/sbt.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/parprog1-scalashop.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/parprog1-scalashop-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_scala_blitz_scala_blitz_2_11_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_wookietreiber_scala_chart_2_11_0_4_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_storm_enroute_scalameter_2_11_0_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_storm_enroute_scalameter_core_2_11_0_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_jfree_jcommon_1_0_21_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_jfree_jfreechart_1_0_17_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_swing_2_11_1_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_7_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_7_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_tools_testing_test_interface_0_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="1920" />
+    <option name="height" value="1172" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parprog1-scalashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalashop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../wgnp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parprog1-scalashop" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/a_sosnovskiy/workspace/parprog/week1/scalashop/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="parprog1-scalashop-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="389101485" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="1185184919" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="288196450" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3362305541" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="4288349219" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="2076816827" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="1430858080" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="3364732609" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3604734976" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../fpds/w1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fpds/w2/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fpds/w4/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fpds/week3/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fppis/w6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ottla" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../sxmpps/activator-akka-clustering" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/akka-goodies" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/akka-stream-util" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/bigbro2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/creek-xml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/creek-xmpp-akka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/deps/scala-xml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/deps/scala-xmpp-protocol" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/muc-light" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/owl-akka-goodies" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/owl-client-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/owl-r2r-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/play-slick-forklift-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/router-protocol-akka-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/scala-xml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/scala-xmpp-protocol" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/title-registry-integration-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xim.proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmpp-akka-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmpp-protocol" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmppcs-load-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmppcs-svc-clan-cache" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmppcs-svc-clan-sync" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../xmppcs/xmppcs-xml" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f652ee5c-7bf3-4fd6-b96d-1e29af75daf2" name="Default Changelist" comment="" />
+      <created>1559719928676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559719928676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2022412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32971373" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="make" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/ScalaTestRunner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Courses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/concurrent/ForkJoinTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/concurrent/ForkJoinPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding>
+            <element signature="e#19#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+          <folding>
+            <element signature="e#19#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

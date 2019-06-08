@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.jfree:jcommon:1.0.21:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/org/jfree/jcommon/1.0.21/jcommon-1.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.storm-enroute:scalameter-core_2.11:0.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/https/artifactory.wgdp.io%3A443/xmppcs-jcenter-bintray-com/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
