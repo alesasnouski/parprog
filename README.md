@@ -1,2 +1,3 @@
 # parprog
-Parallel programming by École Polytechnique Fédérale de Lausanne
+Parallel programming course by École Polytechnique Fédérale de Lausanne
+See https://www.coursera.org/learn/parprog1/
